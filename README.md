@@ -2,5 +2,5 @@
 Practice project based on BlackJack
 
 Project Team
-*Chad (owner)
-*Stephen (collaborator)
+* Chad (owner)
+* Stephen (collaborator)
